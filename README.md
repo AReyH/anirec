@@ -1,4 +1,4 @@
-# Anirec
+# anirec
 
 This repo is a project to work on an anime recommendation system that uses both [Collaborative Filtering](https://developers.google.com/machine-learning/recommendation/collaborative/basics) and [Content-Based Filtering](https://developers.google.com/machine-learning/recommendation/content-based/basics) to suggest shows tailored to users' tastes. The project scrapes user ratings from [MyAnimeList](https://myanimelist.net/) and uses that data to generate personalized recommendations.
 
